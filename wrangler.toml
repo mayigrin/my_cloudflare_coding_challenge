@@ -1,6 +1,4 @@
 name = "my_cloudflare_coding_challenge"
 type = "javascript"
-account_id = ""
+account_id = "978057a3759727e846624a3432363c4d"
 workers_dev = true
-route = ""
-zone_id = ""

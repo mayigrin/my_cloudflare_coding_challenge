@@ -1,5 +1,7 @@
-## URL of my deployed project:
+**Here is the URL of my deployed project:**
 (https://my_cloudflare_coding_challenge.mayigrin.workers.dev/)[https://my_cloudflare_coding_challenge.mayigrin.workers.dev/]
+
+___
 
 # Cloudflare Workers Internship Application: Full-Stack
 
